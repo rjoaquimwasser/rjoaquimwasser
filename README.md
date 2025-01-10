@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Student of Systems Analysis and Development and Computer Engineering<br>- Currently studying front-end development technologies</p>
+<p align="left">- Student of Systems Analysis and Development<br>- Currently studying front-end development technologies</p>
 
 ###
 
