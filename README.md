@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia da Computação`**
 
-Me chamo Rafael Joaquim Wasser e estou cursando Engenharia da Computação, atualmente no 2º semestre.
+Me chamo Rafael Joaquim Wasser e estou cursando Engenharia da Computação, atualmente no 3º semestre.
 
 ---
 
