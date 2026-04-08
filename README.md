@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia da Computação`**
 
-Olá! Eu sou o Rafael Joaquim Wasser e estou cursando Engenharia da Computação, atualmente no 3º semestre. Tenho interesse em ciência de dados e Python.
+Olá! Eu sou o Rafael Joaquim Wasser e sou estudante de Engenharia da Computação. Focado em ciência de dados e Python.
 
 ---
 
