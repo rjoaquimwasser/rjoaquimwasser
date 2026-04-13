@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Rafael Joaquim Wasser Ferreira da Paz
 
-**`Estudante de Engenharia da Computação`**
+**`Estudante de Gestão Financeira`**
 
-Sou estudante de Engenharia da Computação com interesse em Análise de Dados aplicada à indústria e fábricas. Tenho experiência em projetos utilizando Python, Pandas, Matplotlib e Streamlit para criação de dashboards interativos e análises exploratórias.
+Sou estudante de Gestão Financeira com interesse em Análise de Dados aplicada à indústria e fábricas. Tenho experiência em projetos utilizando Python, Pandas, Matplotlib e Streamlit para criação de dashboards interativos e análises exploratórias.
 
 Gosto de transformar dados em insights, acompanhar KPIs e métricas importantes, e otimizar processos industriais. Meu objetivo é utilizar dados para tomada de decisão estratégica e soluções práticas no ambiente industrial.
 
